@@ -1,0 +1,53 @@
+
+body {
+    background-color: antiquewhite;
+}
+
+div span {
+    font-style: italic;
+}
+
+p {
+    text-indent: 20px;
+}
+
+h1 {
+    color: red;
+    font-style: oblique;
+    font-size: 30px;
+    text-decoration-line: underline;
+    text-decoration-color:firebrick;
+    text-decoration-style: dashed;
+    text-align: center;
+}
+
+h1+p {
+    font-weight: bold;
+}
+
+.nom,h3 {
+    font-family: monospace, sans-serif;
+    font-style: oblique;
+    background-color: aliceblue;
+}
+
+.marge {
+    line-height: 25px;
+}
+
+.centrer {
+    text-align: center;
+}
+
+#aggrandir {
+    font-size: 50px;
+}
+
+#a-savoir {
+    font-family: monospace, sans-serif;
+    font-style: italic;
+    color: blue;
+    text-align: center;
+}
+
+
